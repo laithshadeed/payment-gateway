@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.sql
+*.sqlite
+
+# If using an IDE like PyCharm
+.idea/
+
+# If using virtual environments
+venv/
