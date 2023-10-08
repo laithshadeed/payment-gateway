@@ -7,6 +7,7 @@ build/
 *.log
 *.sql
 *.sqlite
+*.db
 
 # If using an IDE like PyCharm
 .idea/
