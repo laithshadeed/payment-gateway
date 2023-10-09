@@ -10,11 +10,18 @@
 # TODO: Revisit Logging
 # TODO: Lint code
 # TODO: Look into making DB operation async
+# TODO: Look into hitting bank API async
 # TODO: Look into making querying rate-limit storage async
 # TODO: Possibly add python types
 # TODO: Customize Talisman headers
 # TODO: Add authentication & authorization
 # TODO: Add script to create/bankup/restore db
+# TODO: Look into encrypting sensitive data
+# TODO: Look into adding a cache layer for retrieving payments
+# TODO: Look into securing the app with TLS
+# TODO: Looking into adding a queue for processing payments
+# TODO: Look into securing write/read operations to the DB
+# TODO: Benchmark the app under high load for cpu/memory/disk/network
 
 from app import create_app
 
