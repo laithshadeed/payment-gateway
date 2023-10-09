@@ -1,4 +1,9 @@
 # TODO: Implement bank simulator
+# TODO: Add API keys so we can map it into marchant ID
+# TODO: Derive aquring bank from credit-card information
+# TODO: Add table for marchants
+# TODO: Add table for API keys
+# TODO: Add table for aquiring banks
 # TODO: Add unit tests for bank simulator
 # TODO: Add API docs with curl examples
 # TODO: Add docs on how start/run the app
@@ -14,7 +19,6 @@
 # TODO: Look into making querying rate-limit storage async
 # TODO: Possibly add python types
 # TODO: Customize Talisman headers
-# TODO: Add authentication & authorization
 # TODO: Add script to create/bankup/restore db
 # TODO: Look into encrypting sensitive data
 # TODO: Look into adding a cache layer for retrieving payments
